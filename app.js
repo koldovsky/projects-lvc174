@@ -196,8 +196,8 @@ app.service('studentService', ['$q', function($q) {
     }, {
         "isChosenProject": 0,
         "name": "Stepan Fortuna",
-        "codeSourceUrl": "https://sf-portfolio-stepfort.c9users.io/index.html",
-        "websiteUrl": "https://github.com/StepFort/JPEG/blob/gh-pages/015.jpg",
+        "codeSourceUrl": "https://github.com/StepFort/sf-portfolio",
+        "websiteUrl": "http://stepfort.github.io/sf-portfolio/",
         "photo": "images/students/fortuna.jpg",
         "cvUrl": ""
     }, {
