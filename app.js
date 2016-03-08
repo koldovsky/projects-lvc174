@@ -93,7 +93,7 @@ app.service('studentService', ['$q', function($q) {
         "name": "Mykhailo Dovhanych",
         "codeSourceUrl": "https://github.com/dovganych/Misha.Dovhanych",
         "websiteUrl": "http://dovganych.github.io/Misha.Dovhanych/",
-        "photo": "images/students/no-photo.gif",
+        "photo": "images/students/dovganych.jpg",
         "cvUrl": "https://www.dropbox.com/home?preview=Mykhailo_Dovhanych_CV.pdf"
     }, {
         "isChosenProject": 0,
